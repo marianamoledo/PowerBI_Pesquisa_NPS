@@ -46,3 +46,7 @@ Os dados foram tirados das bases: [NPS Bank Dataset](https://www.kaggle.com/data
 </p> 
 
 ---
+## Contato
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-moledo-moreira/)](https://www.linkedin.com/in/mariana-moledo-moreira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianamoledomoreira@gmail.com)](mailto:marianamoledomoreira@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F??style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marianamoledo)
