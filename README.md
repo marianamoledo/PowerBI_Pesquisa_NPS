@@ -40,13 +40,12 @@ Acesse o dashboard pelo link abaixo:
 Os dados foram tirados das bases: [NPS Bank Dataset](https://www.kaggle.com/datasets/charlottetu/npsbank?resource=download) e [Financial Sentiment Analysis Dataset](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis).
 
 ---
-## Tecnologias Utilizadas
-<p align="left">  
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+### Tecnologias Utilizadas: <p align="left">  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="20" height="20"/> 
 </p> 
 
 ---
-## Contato
+### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-moledo-moreira/)](https://www.linkedin.com/in/mariana-moledo-moreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianamoledomoreira@gmail.com)](mailto:marianamoledomoreira@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F??style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marianamoledo)
